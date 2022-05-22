@@ -1,0 +1,56 @@
+go to git download in google
+
+download git for windows
+
+install git with default settings
+
+To open : Right click on desktop ==> click on git bash
+
+git clone : git clone with github url
+
+TO create directories or folders : mkdir foldername
+
+To create files : touch or cat > filename 
+
+cd : change directory
+
+cd .. : back to one folder or step
+
+ls : list the folders
+
+ls -al : list all files and folders including hidden
+
+ls -l : directory permissions
+
+cp file1 file2 : copy file1 to file2
+
+mv file1 file2 : move file1 to file2
+
+mv file1 test : To rename the file1 to test
+
+rm file1 : To delete the file with popup
+
+rm -rf file1 : To delete the file or folder without any popup
+
+git init : initialise the git
+
+yum install git -y : git install in linux machine
+
+git add . : add everything to cache area
+
+git commit -m "This is commite" : It move the file to local area
+
+git push origin master : It will move the file to github {It will ask you username and password}
+
+git pull : If you are created file in github to get that file into git
+
+cat filename : to see the content in the file
+
+vim : to edit the file 
+
+
+
+
+
+
+
